@@ -5,3 +5,4 @@ __pycache__/
 saved_models/
 vector_db/
 data/
+.DS_Store
