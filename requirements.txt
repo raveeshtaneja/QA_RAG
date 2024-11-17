@@ -1,0 +1,13 @@
+flask
+flask-cors
+sentence-transformers
+transformers
+langchain
+langchain-community
+langchain_huggingface
+pymupdf
+bitsandbytes
+chromadb
+PyPDF2
+streamlit
+torch 

@@ -1,0 +1,7 @@
+# Large data files
+quantiphi/data/ConceptsofBiology-WEB.pdf
+*.pdf 
+__pycache__/
+saved_models/
+vector_db/
+data/
