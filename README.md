@@ -1,6 +1,8 @@
 # QA RAG app
 To run the project use this command
 
+pip install -r requirements.txt
+
 chmod +x start.sh
 ./start.sh
 
